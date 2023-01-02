@@ -9,6 +9,7 @@
   <url>http://maven.apache.org</url>
   <modules>
     <module>kafka-producer-wikimedia</module>
+    <module>kafka-consumer-opensearch</module>
   </modules>
   <properties>
     <maven.compiler.source>11</maven.compiler.source>
