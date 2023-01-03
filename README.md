@@ -1,12 +1,12 @@
 # wikimedia-kafka-system
 
 
-##High throughput kafka pipeline to read from Wikimedia stream and index into ElasticSearch.
+## High throughput kafka pipeline to read from Wikimedia stream and index into ElasticSearch.
 
-###Source information
+### Source information
 Wikimedia stream real-time URL : https://stream.wikimedia.org/v2/stream/recentchange
 
-###Sink information
+### Sink information
 
 OpenSearch ( Open source fork of ElasticSearch )
 
